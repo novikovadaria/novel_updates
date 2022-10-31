@@ -2,4 +2,4 @@
 _Особенность: первая самостоятельное использование модуля csv и использование headers_
 
 ## Parsing the titles of novels from the site https://www.novelupdates.com / and writing to a csv file
-_ Special feature: the first is the independent use of the csv module and headers_
+_Special feature: the first is the independent use of the csv module and headers_
